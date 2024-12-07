@@ -5,7 +5,10 @@
       <div>
         <p>
           <strong>Phone:</strong
-          ><a href="tel:+380997421847" class="text-green-500 hover:underline">
+          ><a
+            href="tel:+380997421847"
+            class="text-cutty-sark-500 hover:underline"
+          >
             +380997421847
           </a>
         </p>
@@ -13,7 +16,7 @@
           <strong>Email:</strong
           ><a
             href="mailto:av.chezz@gmail.com"
-            class="text-green-500 hover:underline"
+            class="text-cutty-sark-500 hover:underline"
           >
             av.chezz@gmail.com
           </a>
@@ -25,7 +28,7 @@
           ><a
             href="https://www.linkedin.com/in/oleksandr-vanin-2a3b56224/"
             target="_blank"
-            class="text-green-500 hover:underline"
+            class="text-cutty-sark-500 hover:underline"
           >
             oleksandr-vanin-2a3b56224</a
           >
@@ -35,7 +38,7 @@
           ><a
             href="https://github.com/deadbyback"
             target="_blank"
-            class="text-green-500 hover:underline"
+            class="text-cutty-sark-500 hover:underline"
           >
             @deadbyback</a
           >

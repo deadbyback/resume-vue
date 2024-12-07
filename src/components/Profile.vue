@@ -7,7 +7,8 @@
       Ukrainian and Russian; English at intermediate level. I can adapt to
       non-standard requirements and solve complex tasks. In addition to the core
       PHP stack, I have commercial experience with Python, .NET, Node.js, and
-      non-commercial experience with Golang, C++.
+      non-commercial experience with Golang, C++. Now I'm mostly involved with
+      backend tasks.
     </p>
   </section>
 </template>

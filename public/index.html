@@ -4,7 +4,30 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "cutty-sark": {
+                50: "#f5f8f7",
+                100: "#ddeae6",
+                200: "#bbd4cd",
+                300: "#92b6ae",
+                400: "#6b968d",
+                500: "#4d766e",
+                600: "#3f625c",
+                700: "#35504c",
+                800: "#2d423e",
+                900: "#293836",
+                950: "#141f1e",
+              },
+            }
+          }
+        }
+      }
+    </script>
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
   </head>
